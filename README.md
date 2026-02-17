@@ -34,7 +34,9 @@
 *[ВСР-2.5](https://github.com/Happy7atan/KozodoyVV.github.io/blob/1e5b1cd3cb9bdef0eb3ceec79ae626882eb1001f/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%98%D0%92%D0%A21%20%D0%BF.%D0%B3%D1%80.1%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20%D0%92%D0%A1%D0%A0_5.pdf)
 
 # **Задание на практику**
-*[Здание]()
+*[Здание](https://github.com/Happy7atan/KozodoyVV.github.io/blob/659a057cf836ea1baa85e56c2d968847b2d19a94/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%201%20%D0%BA%D1%83%D1%80%D1%81%20(%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%20%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D0%B0%20%D0%A2%D0%A1).pdf)
 
 # **Отчет по практике**
-*[Отчет]()
+*[Отчет](https://github.com/Happy7atan/KozodoyVV.github.io/blob/659a057cf836ea1baa85e56c2d968847b2d19a94/%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5%201%20%D0%BA%D1%83%D1%80%D1%81%20(%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%20%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D0%B0%20%D0%A2%D0%A1).pdf)
+
+
